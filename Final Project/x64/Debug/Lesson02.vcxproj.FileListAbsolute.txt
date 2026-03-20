@@ -1,0 +1,8 @@
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\assimp-vc143-mtd.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\poly2tri.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\minizip.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\zlibd1.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\kubazip.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\pugixml.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\x64\Debug\glfw3.dll
+X:\3DProgrammingCourse\FinalAssignment\FinalProject 2025.09.30\Final Project\x64\Debug\Lesson02.vcxproj.Up2Date
